@@ -26,32 +26,11 @@ If a player is stuck or wants to end the game prematurely, they can use the "giv
 * Type 'give up' to reveal the correct answer and end the game.
 Follow on-screen instructions to navigate through the game.
 
-## Code Snippets
-* Random Number Generation
-  // Generate a random number within the specified range
-int secretNumber = generateRandomNumber(minRange, maxRange);
-
-* Providing Hints
-  // Check if the guess is correct and provide hints
-String hint = provideHint(userGuess, secretNumber);
-
-* Recording Timing and Calculating Score
-  // Record timing
-long endTime = System.currentTimeMillis();
-long elapsedTime = endTime - startTime;
-
-// Calculate score
-int score = calculateScore(elapsedTime);
-
-* Give Up Option
-  // Give up option
-if (userInput.equalsIgnoreCase("give up")) {
-    revealAnswer(secretNumber);
-    endGame();
-}
-
 Acknowledgments
 * Inspired by classic number guessing games.
 * Built with Java and love for coding!
 * Feel free to contribute to the project or customize it to suit your preferences. Enjoy the game!
+
+  see the preview,how it works👀
+  
 
