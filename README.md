@@ -32,6 +32,7 @@ Acknowledgments
 * Feel free to contribute to the project or customize it to suit your preferences. Enjoy the game!
 
   see the preview,how it works👀
-  https://github.com/vedapriya17/guessingnum_codsoft/assets/140573640/e297b29c-c2ad-4e56-88c4-d3ca136da574
+
+   https://github.com/vedapriya17/guessingnum_codsoft/assets/140573640/e297b29c-c2ad-4e56-88c4-d3ca136da574
   
 
